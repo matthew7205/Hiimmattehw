@@ -1,3 +1,17 @@
 body {
-        background-image:url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjxi43TkoDLAhVPyWMKHX4fDogQjRwIBw&url=http%3A%2F%2Fmariegrey.deviantart.com%2Fart%2FCreepy-forest-520948151&psig=AFQjCNE4Y6oGhRAutdfpGV0XWLNjWaHPNQ&ust=1455844722849279");
+        background-image:url("https://www.raileurope.com/blog/wp-content/uploads/iStock_000016648078Medium.jpg");
+}
+
+
+img {
+  width: 500px;
+    height: 350px;
+}
+
+#imageMoto{
+    height: 500px;
+}
+
+.imageWilderness{
+    width:100
 }
